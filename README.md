@@ -1,4 +1,4 @@
-# Amazon_Vine_Analysis
+# Amazon Vine Analysis
 
 Overview of the analysis: 
 The purpose of this analysis was to analyze Amazon reviews written by members of the paid Amazon Vine program, then use PySpark to determine if there is any bias toward favorable reviews from Vine members in your dataset.
