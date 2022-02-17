@@ -16,5 +16,7 @@ What percentage of Vine reviews were 5 stars? What percentage of non-Vine review
 Summary: 
 Because for this specific dataset there were no paid reviews, there is no positivity bias. All reviews are unpaid, therefore we can assume the bias is low. 
 
+<img src="Vine-Results.png">
+
 Link to Google Colab:
 https://colab.research.google.com/drive/127t7mq9U4torb-xea0INkf484-K6hFbC?usp=sharing
