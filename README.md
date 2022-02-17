@@ -13,5 +13,8 @@ What percentage of Vine reviews were 5 stars? What percentage of non-Vine review
 - Vine: 0
 - Non-vine: 2507, 55%
 
-Summary: In your summary, state if there is any positivity bias for reviews in the Vine program. Use the results of your analysis to support your statement. Then, provide one additional analysis that you could do with the dataset to support your statement.
+Summary: 
 Because for this specific dataset there were no paid reviews, there is no positivity bias. All reviews are unpaid, therefore we can assume the bias is low. 
+
+Link to Google Colab:
+https://colab.research.google.com/drive/127t7mq9U4torb-xea0INkf484-K6hFbC?usp=sharing
